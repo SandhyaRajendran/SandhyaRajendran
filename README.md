@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandhya Rajendran</h1>
 <h3 align="center">A passionate back-end developer from India</h3>
 
-- 🔭 I’m currently working on **To-Do Using Eisenhower matrix**
+- 🔭 I’m currently working on **To-Do Project Using Eisenhower matrix**
 
 - 🌱 I’m currently learning **Advance JavaScript, Advance PHP**
 
