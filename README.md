@@ -1,4 +1,4 @@
-<img src="https://e0.pxfuel.com/wallpapers/899/720/desktop-wallpaper-galaxy-twitch-banner-twitch-web-banner-streaming-media-gamer-background-banner-gaming-thumbnail.jpg">
+<img src="https://media.licdn.com/dms/image/D5616AQGDgR34ip2f5g/profile-displaybackgroundimage-shrink_350_1400/0/1690197125121?e=1696464000&v=beta&t=rstZbIpVlVc3A9CLg6yc2voO76saPvnpnkjDM7IkN8M">
 <h1 align="center">Hi 👋, I'm Sandhya Rajendran</h1>
 <h3 align="center">A passionate back-end developer from India</h3>
 
