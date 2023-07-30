@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQGDgR34ip2f5g/profile-displaybackgroundimage-shrink_350_1400/0/1690197125121?e=1696464000&v=beta&t=rstZbIpVlVc3A9CLg6yc2voO76saPvnpnkjDM7IkN8M">
 <h1 align="center">Hi 👋, I'm Sandhya Rajendran</h1>
 <h3 align="center">A passionate back-end developer from India</h3>
-<img align="right" height="300px" width="300px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" height="500px" width="500px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🔭 I’m currently working on **To-Do Project Using Eisenhower matrix**
 
