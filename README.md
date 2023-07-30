@@ -11,7 +11,7 @@
 - 📫 How to reach me **sandhyadckap@gmail.com**
 
 - ⚡ Fun fact **I am passionate to learn new things.**
-<img align="right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" height="200px" width="200px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
